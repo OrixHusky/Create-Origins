@@ -1,3 +1,4 @@
+DOWNLOAD appliedenergistics-15.3.6.jar
 DOWNLOAD CustomPlayerModels-Fabric-1.20-0.6.22a.jar
 DOWNLOAD Pehkui-3.8.3+1.14.4-1.21.jar
 DOWNLOAD amendments-1.20-1.2.19-fabric.jar
