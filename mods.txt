@@ -1,3 +1,4 @@
+DOWNLOAD CreateNumismatics-1.0.11+fabric-mc1.20.1.jar
 DOWNLOAD appliedenergistics-15.3.6.jar
 DOWNLOAD CustomPlayerModels-Fabric-1.20-0.6.22a.jar
 DOWNLOAD Pehkui-3.8.3+1.14.4-1.21.jar
